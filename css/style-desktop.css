@@ -1,0 +1,40 @@
+	body,input,textarea,select
+	{
+		font-size: 11pt;
+	}
+
+	#header
+	{
+		padding-top: 3em;
+	}
+
+	#logo span {
+		padding-top: 1em;
+	}
+
+	#banner
+	{
+		position: relative;
+		padding: 0em 3em;
+		color: #fff;
+	}
+	
+	#banner .container
+	{
+		background: #FFF;
+	}
+	
+	#banner .full
+	{
+		padding: 0em 3em;
+	}
+
+	#main
+	{
+		padding: 4em 3em 6em 3em;
+	}
+	
+	#footer
+	{
+		padding: 6em 3em;
+	}
